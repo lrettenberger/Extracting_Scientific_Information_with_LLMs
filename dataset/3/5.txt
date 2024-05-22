@@ -1,0 +1,19 @@
+Name Komposit: protease@MOF
+MOF-Name:  ZIF-8
+Linkersalz: 2-methylimidazole
+Metallsalz:  zinc nitrate
+Enzymname: fibrinolytic protease CHA410
+Organismus: Bacillus sp. CHA410
+Konzentration Metallsalze: 1 mM
+Konzentration Linker: 1 mM
+Konzentration Enzyme: 0.02 mgmL−1 
+pH-Wert Metallsalzlösung: -
+pH-Wert Linkerlösung: -
+pH-Wert Enzymlösung: -
+Linkername: 2-methylimidazole
+Edukte:  fibrin, hemoglobin, casein, transferrin, albumin, Protein hydrolysate of Thunnus tonggol
+Produkt: -
+Metallion (mit Ladung): Zn^2+
+Reihenfolge der Komponenten: simultaneously
+
+

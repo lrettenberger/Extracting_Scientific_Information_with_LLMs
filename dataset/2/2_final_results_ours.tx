@@ -1,0 +1,22 @@
+Compressed Text:
+The preparation of HKUST-1 involved the modification of a previously reported method, where cupric acetate monohydrate (87.5 mmol) and 1,3,5-benzentericboxylicacid (BTC) (25 mmol) were dissolved in NaAc-HAc buffer solution (200 mM, pH 7, 1 L) and incubated at 30°C for 8 hours. The product was obtained by centrifuging and washing three times with deionized water, and then dried in a vacuum freeze dryer for 12 hours and stored at 4°C. The fabrication of laccase@HKUST-1 involved the biomimetic mineralization method, where the metal salt cupric acetate monohydrate solution (87.5 mM, 250 μL) was added to the enzyme laccase (2 mg, 20 μL) and mixed with the Linker 1,3,5-benzenetricarboxylic (25 mM, 250 μL) in acetate buffer saline solution (pH 7.0, 200 mM). The source organism is Trametes versicolor powder. The mixture was incubated at 30°C for 8 hours, resulting in the formation of HKUST-1 protective coatings. The solids were separated by centrifugation at 6000 rpm for 10 min and washed three times with deionized water. The final product was dried in a vacuum freeze dryer for 12 hours and stored at 4°C. The activity of free laccase was determined using the principle of laccase oxidation ABTS. The reaction mixture contained 0.005 mg of free laccase in 0.5 mL ABTS solution at 40°C. The activity was calculated using the equation: U = (ΔA x V x 10^6) / (ε x L x t) x 100%. Here, ΔA is the variation of absorbance before and after the reaction, V is the volume of liquid in cuvette, ε is the extinction coefficient, L is the length of cuvette's optical path, and t is the reaction time. The immobilized laccase containing 0.005 mg free laccase was incubated in 0.5 mL ABTS solution at 40°C, and the activity was calculated using the same equation. The characterization of laccase@HKUST-1 was carried out using various techniques, including scanning electron microscopy (SEM), transmission electron microscopy (TEM), powder X-ray diffraction (XRD), Fourier-transform infrared spectroscopy (FT-IR), and thermogravimetric analysis (TGA). The results showed that the laccase@HKUST-1 biocomposite had a uniform distribution of laccase on the surface of HKUST-1, with no significant changes in the crystal structure of HKUST-1. The FT-IR spectrum revealed the presence of laccase and its interaction with HKUST-1, and the TGA analysis showed that the laccase@HKUST-1 biocomposite had a higher thermal stability than free laccase. The degradation of BPA was investigated under different conditions of BPA concentration (25-400 mg/L), pH (4.5-7), temperature (20-60 °C), and reaction time (1-24 h) using laccase and laccase@HKUAT-1. The enzyme mass was approximately 0.2 g. The reaction was accelerated by adding ABTS. BPA residual amounts were analyzed using a high-efficiency liquid chromatography system with a quaternary pump, diode array detector, and an Ascentis(r) C18 column. The mobile phase was water:methanol (40:60, v/v) at a flow rate of 1 mL/min for 16 min. Detection was performed at 277 nm.
+
+
+Parameters:
+| composite_name | mof_name | linker_salt | metal_salt | enzyme_name | organism_name | concentration_metal_salt | concentration_linker | concentration_enzyme | reactants | products | sequence_of_components |
+| laccase@HKUST-1 | HKUST-1 | 1,3,5-benzenetricarboxylic acid | cupric acetate monohydrate | laccase | Trametes versicolor | 87.5 mM | 25 mM | 2 mg | ABTS, BPA | N/A | 1. cupric acetate monohydrate, 2. 1,3,5-benzenetricarboxylic acid, 3. laccase, 4. ABTS |
+
+
+True (Predicted)
+Name Komposit: laccase@HKUST-1 (laccase@HKUST-1) -> Richtig
+MOF-Name: HKUST-1 (HKUST-1)  -> Richtig
+Linkersalz: 1,3,5-benzenetricarboxylicacid (1,3,5-benzenetricarboxylic acid)  -> Richtig
+Metallsalz: Cupric acetate monohydrate (Cupric acetate monohydrate)  -> Richtig
+Enzymname: Laccase (laccase)  -> Richtig
+Organismus: Trametes versicolor (Trametes versicolor)  -> Richtig
+Konzentration Metallsalze: 87.5 mM (87.5 mM)  -> Richtig
+Konzentration Linker: 25 mM  (25 mM)  -> Richtig
+Konzentration Enzyme: 2 g/mL (2 mg)  -> Falsch
+Edukte: BPA (ABTS, BPA)  -> Richtig
+Produkt: - (-)  -> Richtig
+Reihenfolge der Komponenten: 1. Cupric acetate monohydrate, Laccase, 2. 1,3,5-benzenetricarboxylic acid ( 1. cupric acetate monohydrate, 2. 1,3,5-benzenetricarboxylic acid, 3. laccase, 4. ABTS)  -> Falsch

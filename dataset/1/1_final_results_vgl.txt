@@ -1,0 +1,17 @@
+Parameters:
+| composite_name | mof_name | linker_salt | metal_salt | enzyme_name | organism_name | concentration_metal_salt | concentration_linker | concentration_enzyme | reactants | products | sequence_of_components |
+| OPP-MOF | ZIF-8 | ZnCl2 | ZnCl2 | OPP | Girrus sienes | 0.002 M | 0.002 M | 0.002 M | 2-methylimidazole | guaiacol | OPP |
+
+True (Predicted)
+Name Komposit: OPP–MOF (OPP-MOF) -> Richtig
+MOF-Name: ZIF-8 (ZIF-8) -> Richtig
+Linkersalz: zinc acetate (ZnCl2) ->  Falsch
+Metallsalz: 2-methylimmidazole (ZnCl2) -> Falsch
+Enzymname: orange peel peroxidase (OPP) -> Richtig
+Organismus: Citrus sinenses (Girrus sienes) -> Richtig
+Konzentration Metallsalze: 8 mmol (0.002 M) ->  Falsch
+Konzentration Linker: 24 mmol (0.002 M) ->  Falsch
+Konzentration Enzyme: 1.2 mg/mL (0.002 M) ->  Falsch
+Edukte: Congo red, methylene blue, guicol (2-methylimidazole ) -> Falsch
+Produkt: tetraguaiacol (guaiacol) ->  Richtig
+Reihenfolge der Komponenten: 1. 2-methylimmidazole, orange peel peroxidase, 2. zinc acetate (OPP) -> Falsch

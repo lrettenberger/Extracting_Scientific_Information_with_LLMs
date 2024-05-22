@@ -1,0 +1,20 @@
+
+Parameters:
+| composite_name | mof_name | linker_salt | metal_salt | enzyme_name | organism_name | concentration_metal_salt | concentration_linker | concentration_enzyme | reactants | products | sequence_of_components |
+|NH\({}_{2}\)-MIL-53(Al) | NH\({}_{2}\)-MIL-53(Al) | NH\({}_{2}\)-BDC | NH\({}_{2}\)-BDC | laccase | Trametes versicolor | 0.545 mM/mL | 0.545 mM/mL | 0.545 mM/mL | ABTS | ABTS | NH\({}_{2}\)-BDC |
+|NH2-ML-53(Al)/laccase | NH2-ML-53(Al) | NH2-BDC | AlCl3 | laccase | Trametes versicolor | 100 mg | 100 mg | 100 mg | ABTS | ABTS | ABTS |
+
+
+True (Predicted)
+Name Komposit: NH 2 -MIL-53(Al)/laccase (NH2-ML-53(Al)/laccase) -> Richtig
+MOF-Name:  NH 2-MIL-53(Al) (NH2-ML-53(Al)) -> Richtig
+Linkersalz: 2-amino-terephthalic acid (NH2-BDC) -> Falsch
+Metallsalz: aluminum chloride (AlCl3) -> Falsch
+Enzymname: laccase (laccase) -> Richtig
+Organismus: Trametes versicolor (Trametes versicolor) -> Richtig
+Konzentration Metallsalze: 75.12 mg, 0.253 mmol (100mg) -> Falsch
+Konzentration Linker: 100 mg (100 mg) -> Richtig
+Konzentration Enzyme:  100 mg (100 mg) -> Richtig
+Edukte: ABTS (ABTS) -> Richtig
+Produkt: - (ABTS) -> Falsch
+Reihenfolge der Komponenten: 1. 2-amino-terephthalic acid, 2. aluminum chloride, 3. laccase (ABTS) -> Falsch

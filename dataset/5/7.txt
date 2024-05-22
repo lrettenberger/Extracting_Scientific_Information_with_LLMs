@@ -1,0 +1,18 @@
+Name Komposit: NH 2 -MIL-53(Al)/laccase
+MOF-Name:  NH 2-MIL-53(Al)
+Linkersalz: 2-amino-terephthalic acid
+Metallsalz: aluminum chloride 
+Enzymname: laccase
+Organismus: Trametes versicolor
+Konzentration Metallsalze: 75.12 mg, 0.253 mmol
+Konzentration Linker: 100 mg
+Konzentration Enzyme:  100 mg
+pH-Wert Metallsalzlösung: -
+pH-Wert Linkerlösung: -
+pH-Wert Enzymlösung: -
+Linkername: NH2-BDC
+Edukte: ABTS
+Produkt: -
+Metallion (mit Ladung): Al^3+
+Reihenfolge der Komponenten: 1. 2-amino-terephthalic acid, 2. aluminum chloride, 3. laccase
+

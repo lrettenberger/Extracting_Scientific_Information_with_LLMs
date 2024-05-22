@@ -1,0 +1,17 @@
+Name Komposit: laccase@HKUST-1
+MOF-Name: HKUST-1
+Linkersalz: 1,3,5-benzenetricarboxylic acid
+Metallsalz: Cupric acetate monohydrate 
+Enzymname: Laccase
+Organismus: Trametes versicolor
+Konzentration Metallsalze: 87.5 mM
+Konzentration Linker: 25 mM 
+Konzentration Enzyme: 2 g/mL
+pH-Wert Metallsalzlösung: 7
+pH-Wert Linkerlösung: 7
+pH-Wert Enzymlösung: 7
+Linkername: BTC
+Edukte: BPA
+Produkt: -
+Metallion (mit Ladung): Cu^2+
+Reihenfolge der Komponenten: 1. Cupric acetate monohydrate, Laccase, 2. 1,3,5-benzenetricarboxylic acid

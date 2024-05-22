@@ -1,0 +1,18 @@
+Parameters:
+| composite_name | mof_name | linker_salt | metal_salt | enzyme_name | organism_name | concentration_metal_salt | concentration_linker | concentration_enzyme | reactants | products | sequence_of_components |
+|laccase-HKUST-1 | HKUST-1 | Na2HPO4 | CuCl2 | laccase | Trametes versicolor | 87.5 mM | 25 mM | 0.1 mg/mL | ABTS | ABTS | ABTS |
+|laccase-HKUST-1 | HKUST-1 | NaAc-HAc | CuCl2 | laccase | Trametes versicolor | 62.5 mM | 6.25 mM | 2 mg | ABTS | BPA | 1. ABTS, 2. ABTS, 3. ABTS, 4. ABTS, 5. ABTS, 6. ABTS, 7. ABTS, 8. ABTS, 9. ABTS, 10. ABTS, 11. ABTS, 12. ABTS, 13. ABTS, 14. ABTS, 15. ABTS, 16. ABTS, 17. ABTS, 18. ABTS, 19. ABTS, 20. ABTS, 21. ABTS, 22. ABTS, 23. ABTS, 24. ABTS, 25. ABTS, 26. ABTS, 27. ABTS, 28. ABTS, 29. ABTS, 30. ABTS, 31. ABTS, 32. ABTS, 33. ABTS, 34. ABTS, 35. ABTS, 36. ABTS, 37. ABTS, 38. ABTS, 39. ABTS, 40. ABTS, 41. ABTS, 42. ABTS, 43. ABTS, 44. ABTS, 45. ABTS, 46. ABTS, 47. ABTS, 48. ABTS, 49. ABTS, 50. ABTS, 51. ABTS, 52. ABTS, 53. ABTS, 54. ABTS, 55. ABTS, 56. ABTS, 57. ABTS, 58. ABTS, 59. ABTS, 60. ABTS, 61. ABTS, 62. ABTS, 63. ABTS, 64. ABTS, 65. ABTS, 6
+
+True (Predicted)
+Name Komposit: laccase@HKUST-1 (laccase-HKUST-1) -> Richtig
+MOF-Name: HKUST-1 (HKUST-1)  -> Richtig
+Linkersalz: 1,3,5-benzenetricarboxylicacid (NaAc-HAc)  -> Falsch
+Metallsalz: Cupric acetate monohydrate (CuCl2)  -> Falsch
+Enzymname: Laccase (laccase)  -> Richtig
+Organismus: Trametes versicolor (Trametes versicolor)  -> Richtig
+Konzentration Metallsalze: 87.5 mM (62.5 mM)  -> Falsch
+Konzentration Linker: 25 mM  (62.5 mM)  -> Falsch 
+Konzentration Enzyme: 2 g/mL (2 g/mL)  -> Richtig
+Edukte: BPA (ABTS)  -> Falsch
+Produkt: - (BPA)  -> Falsch
+Reihenfolge der Komponenten: 1. Cupric acetate monohydrate, Laccase, 2. 1,3,5-benzenetricarboxylic acid (1. ABTS, 2. ABTS, 3. ABTS, 4. ABTS, 5. ABTS, 6. ABTS, 7. ABTS, 8. ABTS, 9. ABTS, 10. ABTS, 11. ABTS, 12. ABTS, 13. ABTS, 14. ABTS, 15. ABTS, 16. ABTS, 17. ABTS, 18. ABTS, 19. ABTS, 20. ABTS, 21. ABTS, 22. ABTS, 23. ABTS, 24. ABTS, 25. ABTS, 26. ABTS, 27. ABTS, 28. ABTS, 29. ABTS, 30. ABTS, 31. ABTS, 32. ABTS, 33. ABTS, 34. ABTS, 35. ABTS, 36. ABTS, 37. ABTS, 38. ABTS, 39. ABTS, 40. ABTS, 41. ABTS, 42. ABTS, 43. ABTS, 44. ABTS, 45. ABTS, 46. ABTS, 47. ABTS, 48. ABTS, 49. ABTS, 50. ABTS, 51. ABTS, 52. ABTS, 53. ABTS, 54. ABTS, 55. ABTS, 56. ABTS, 57. ABTS, 58. ABTS, 59. ABTS, 60. ABTS, 61. ABTS, 62. ABTS, 63. ABTS, 64. ABTS, 65. ABTS, 6)  -> Falsch (WTF? :D) 

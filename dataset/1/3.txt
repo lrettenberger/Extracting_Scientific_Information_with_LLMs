@@ -1,0 +1,21 @@
+Name Komposit: OPP–MOF
+MOF-Name: ZIF-8
+Linkersalz: zinc acetate
+Metallsalz: 2-methylimmidazole
+Enzymname: orange peel peroxidase 
+Organismus: Citrus sinenses
+Konzentration Metallsalze: 8 mmol
+Konzentration Linker: 24 mmol
+Konzentration Enzyme: 1.2 mg/mL
+pH-Wert Metallsalzlösung: -
+pH-Wert Linkerlösung: -
+pH-Wert Enzymlösung: 7.0
+Linkername: 2-methylimmidazole
+Edukte: Congo red, methylene blue, guicol
+Produkt: tetraguaiacol
+Metallion (mit Ladung): Zn^2+
+Reihenfolge der Komponenten: 1. 2-methylimmidazole, orange peel peroxidase, 2. zinc acetate
+
+
+
+
